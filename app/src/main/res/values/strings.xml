@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Speedlink3</string>
+    <string name="please_wait">Please Wait ...</string>
+    <string name="slide_one_title">WELCOME</string>
+    <string name="slide_one_text">Thank you for Checking Our Demo !</string>
+    <string name="slide_two_title">Speedlink3 Web App ?</string>
+    <string name="slide_two_text">A smart Android webApp Solution ❤ !</string>
+    <string name="slide_three_title">APP FEATURES</string>
+    <string name="slide_three_text">Like Admob, Notification, Youtube Videos .</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="facebook_url">http://www.facebook.com/spl3ceo</string>
+
+    // app links
+
+    <string name="website_link">https://www.speedlink3.net/</string>
+    <string name="about_website_link">https://www.speedlink3.net/about/</string>
+    <string name="portfolio_website_link">https://www.speedlink3.net/cloud-erp-for-business-management/</string>
+    <string name="market">market://</string>
+    <string name="instagram_url">https://www.instagram.com/spl3ceo/</string>
+    <string name="instagram_package">com.instagram.android</string>
+    <string name="data_formate">yyyyMMdd_HHmmss</string>
+    <string name="no_internet_connection">No Internet Connection !</string>
+    <string name="please_click_back">Please click BACK again to exit</string>
+    <string name="choose_one">choose one</string>
+    <string name="contact_us">Contact us</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="log_out">Log out</string>
+    <string name="follow_us">follow_us</string>
+
+</resources>
