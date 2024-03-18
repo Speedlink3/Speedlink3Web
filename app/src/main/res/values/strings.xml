@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Speedlink3</string>
+    <string name="app_name" translatable="false">Web AdMob</string>
+    <string name="title_activity_main" translatable="false">Firebase Ads Controller</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="welcome_banner" translatable="false">welcome_banner</string>
 </resources>

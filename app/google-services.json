@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649567888348",
+    "project_id": "speedlink3-fire-cloud-server",
+    "storage_bucket": "speedlink3-fire-cloud-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649567888348:android:5f438e34aa469e1cf36519",
+        "android_client_info": {
+          "package_name": "com.speedlink3.fireadcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0jSgmW2HKkr23fGXArgCJNOEeJ7I7nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -27,10 +27,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.speedlink3.fireadcontrol" />
+                  <option name="mobileSdkAppId" value="1:649567888348:android:5f438e34aa469e1cf36519" />
+                  <option name="projectId" value="speedlink3-fire-cloud-server" />
+                  <option name="projectNumber" value="649567888348" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
